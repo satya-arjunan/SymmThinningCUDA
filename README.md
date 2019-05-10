@@ -6,6 +6,7 @@ Unix version with CMake
 1. brew install boost
 1. brew install cmake
 
+### Compilation steps
 1. mkdir build
 1. cd build
 1. cmake ..
