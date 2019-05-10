@@ -1,5 +1,10 @@
 # SymmThinningCUDA
-Linux version with CMake
+Unix version with CMake
+
+### On Mac OS
+1. brew install hdf5
+1. brew install boost
+1. brew install cmake
 
 1. mkdir build
 1. cd build
